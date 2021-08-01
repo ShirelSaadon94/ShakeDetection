@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShakeDetection</string>
+    <string name="see_data">SEE DATA</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
+    <string name="clean_history">CLEAN HISTORY</string>
+</resources>
